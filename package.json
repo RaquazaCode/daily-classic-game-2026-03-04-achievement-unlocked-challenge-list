@@ -1,0 +1,16 @@
+{
+  "name": "daily-classic-game-2026-03-04-achievement-unlocked-challenge-list",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node scripts/self-check.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2",
+    "vite": "^7.1.3"
+  }
+}
